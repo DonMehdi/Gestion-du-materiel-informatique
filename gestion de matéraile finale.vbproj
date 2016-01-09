@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E1E3FBAE-CAB9-45F6-A382-4E43594A465D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WindowsApplication1.My.MyApplication</StartupObject>
+    <RootNamespace>WindowsApplication1</RootNamespace>
+    <AssemblyName>gestion de matérail</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>gestion de matérail.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>gestion de matérail.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classes\détail_commandes.vb" />
+    <Compile Include="forms\Commandee.designer.vb">
+      <DependentUpon>Commandee.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Commandee.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\detail_commande.designer.vb">
+      <DependentUpon>detail_commande.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\detail_commande.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\division_des_services.designer.vb">
+      <DependentUpon>division_des_services.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\division_des_services.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mise a jours\divserviceM.vb" />
+    <Compile Include="mise a jours\commandeM.vb" />
+    <Compile Include="forms\budget.Designer.vb">
+      <DependentUpon>budget.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\budget.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="classes\commandes.vb" />
+    <Compile Include="classes\dvservices.vb" />
+    <Compile Include="classes\fournisseurs.vb" />
+    <Compile Include="classes\inventaires.vb" />
+    <Compile Include="classes\nature_services.vb" />
+    <Compile Include="classes\prod.vb" />
+    <Compile Include="classes\typebudgets.vb" />
+    <Compile Include="forms\connexion.designer.vb">
+      <DependentUpon>connexion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\connexion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FrmAide.Designer.vb">
+      <DependentUpon>FrmAide.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FrmAide.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\FrmApplication.Designer.vb">
+      <DependentUpon>FrmApplication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\FrmApplication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\fournisseur.Designer.vb">
+      <DependentUpon>fournisseur.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\fournisseur.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\menu_principale.designer.vb">
+      <DependentUpon>menu_principale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\menu_principale.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\inventaire.Designer.vb">
+      <DependentUpon>inventaire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\inventaire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mise a jours\budgetM.vb" />
+    <Compile Include="mise a jours\connexion.vb" />
+    <Compile Include="mise a jours\detailM.vb" />
+    <Compile Include="mise a jours\fournisseurM.vb" />
+    <Compile Include="mise a jours\inventaireM.vb" />
+    <Compile Include="mise a jours\natservicseM.vb" />
+    <Compile Include="mise a jours\prodM.vb" />
+    <Compile Include="forms\My Message Boxe.designer.vb">
+      <DependentUpon>My Message Boxe.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\My Message Boxe.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="forms\nature_de_service.designer.vb">
+      <DependentUpon>nature_de_service.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\nature_de_service.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\Produit.designer.vb">
+      <DependentUpon>Produit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\Produit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="forms\Commandee.resx">
+      <DependentUpon>Commandee.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\connexion.fo.resx">
+      <DependentUpon>connexion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\detail_commande.resx">
+      <DependentUpon>detail_commande.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\division_des_services.resx">
+      <DependentUpon>division_des_services.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\budget.resx">
+      <DependentUpon>budget.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\connexion.resx">
+      <DependentUpon>connexion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FrmAide.resx">
+      <DependentUpon>FrmAide.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\FrmApplication.resx">
+      <DependentUpon>FrmApplication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\fournisseur.resx">
+      <DependentUpon>fournisseur.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\menu_principale.resx">
+      <DependentUpon>menu_principale.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\inventaire.resx">
+      <DependentUpon>inventaire.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\My Message Boxe.resx">
+      <DependentUpon>My Message Boxe.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\nature_de_service.resx">
+      <DependentUpon>nature_de_service.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\Produit.resx">
+      <DependentUpon>Produit.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Materiel_informatique_inseco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aide-manuel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3dexter3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Particuliers4f0578d107769.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\serrure-bonhomme-cadenas-preview-8255393.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sans titre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ajouter-document-fichier-nouveau-plus-icone-3884-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\modifier-texte-icone-4855-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\espace-turquoise.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bonhomme MSN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bonhomme MSN mini.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

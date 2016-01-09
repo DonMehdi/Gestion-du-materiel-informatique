@@ -1,0 +1,105 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\bin\Debug\gestion de matérail.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\bin\Debug\gestion de matérail.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\bin\Debug\gestion de matérail.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\gestion de matérail.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\gestion de matérail.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\gestion de matérail.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.commande.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.detail_commande.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.division_des_services.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.fournisseur.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.inventaire.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.menu_principale.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.nature_de_service.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.produits.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.budget.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\gestion de matérail.exe
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\gestion de matérail.xml
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\gestion de matérail.pdb
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\bin\Debug\gestion de matérail.exe
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\bin\Debug\gestion de matérail.pdb
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\bin\Debug\gestion de matérail.xml
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.budget.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.commande.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.detail_commande.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.division_des_services.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.fournisseur.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.FrmAide.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.FrmApplication.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.inventaire.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.menu_principale.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.nature_de_service.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.produits.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\e\Desktop\gestion de matérail\gestion de matérail\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\gestion de matérail.exe
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\gestion de matérail.xml
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\gestion de matérail.pdb
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\bin\Debug\gestion de matérail.exe
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\bin\Debug\gestion de matérail.pdb
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\bin\Debug\gestion de matérail.xml
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.budget.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.commande.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.detail_commande.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.division_des_services.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.fournisseur.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.FrmAide.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.FrmApplication.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.inventaire.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.menu_principale.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.nature_de_service.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.produits.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\USER\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\gestion de matérail.exe
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\gestion de matérail.xml
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\gestion de matérail.pdb
+H:\gestion de matérail&&&\gestion de matérail\bin\Debug\gestion de matérail.exe
+H:\gestion de matérail&&&\gestion de matérail\bin\Debug\gestion de matérail.pdb
+H:\gestion de matérail&&&\gestion de matérail\bin\Debug\gestion de matérail.xml
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.budget.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.commande.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.detail_commande.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.division_des_services.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.fournisseur.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.FrmAide.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.FrmApplication.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.inventaire.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.menu_principale.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.nature_de_service.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.produits.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.connecter.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\gestion de matérail.exe
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\gestion de matérail.xml
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\gestion de matérail.pdb
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\bin\Debug\gestion de matérail.exe
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\bin\Debug\gestion de matérail.pdb
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\bin\Debug\gestion de matérail.xml
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.budget.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.connecter.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.detail_commande.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.division_des_services.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.fournisseur.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.FrmAide.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.FrmApplication.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.inventaire.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.menu_principale.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.nature_de_service.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.produits.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mouad\Desktop\gestion de matérail&&&\gestion de matérail\obj\x86\Debug\WindowsApplication1.Commandee.resources

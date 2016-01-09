@@ -1,0 +1,26 @@
+D:\logiciel\gestion de matérail Finale\gestion de matérail\bin\Release\gestion de matérail.exe
+D:\logiciel\gestion de matérail Finale\gestion de matérail\bin\Release\gestion de matérail.pdb
+D:\logiciel\gestion de matérail Finale\gestion de matérail\bin\Release\gestion de matérail.xml
+D:\logiciel\gestion de matérail Finale\gestion de matérail\bin\Release\fo\gestion de matérail.resources.dll
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\ResolveAssemblyReference.cache
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.Commandee.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.detail_commande.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.Btn_annuler.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.budget.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.connecter.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.FrmAide.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.FrmApplication.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.fournisseur.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.menu_principale.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.inventaire.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.My_Message_Boxe.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.nature_de_service.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.produits.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\WindowsApplication1.connecter.fo.resources
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\GenerateResource.read.1.tlog
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\GenerateResource.write.1.tlog
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\fo\gestion de matérail.resources.dll
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\gestion de matérail.exe
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\gestion de matérail.xml
+D:\logiciel\gestion de matérail Finale\gestion de matérail\obj\x86\Release\gestion de matérail.pdb
